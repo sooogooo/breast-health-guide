@@ -1,16 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 440" font-family="-apple-system,'PingFang SC','Microsoft YaHei',sans-serif">
-  <rect width="900" height="440" fill="#faf8f4"/>
-  <text x="450" y="50" font-size="18" fill="#7a8b6f" text-anchor="middle" font-weight="600">假体 &amp; 自体脂肪，两种思路</text>
-  <ellipse cx="250" cy="260" rx="120" ry="90" fill="#ffffff" stroke="#2b2a28" stroke-width="2"/>
-  <path d="M160 260 C 190 210, 310 210, 340 260 C 310 310, 190 310, 160 260 Z" fill="#f3efe8" stroke="#2b2a28" stroke-width="1.5"/>
-  <ellipse cx="250" cy="262" rx="46" ry="38" fill="#eef0ea" stroke="#7a8b6f" stroke-width="2"/>
-  <text x="250" y="267" font-size="14" fill="#5f6e54" text-anchor="middle">假体</text>
-  <text x="250" y="400" font-size="15" fill="#6b6864" text-anchor="middle">硅胶假体 · 塑形好</text>
-  <ellipse cx="650" cy="260" rx="120" ry="90" fill="#ffffff" stroke="#2b2a28" stroke-width="2"/>
-  <path d="M560 260 C 590 210, 710 210, 740 260 C 710 310, 590 310, 560 260 Z" fill="#f3efe8" stroke="#2b2a28" stroke-width="1.5"/>
-  <g fill="#c9a876" opacity="0.8">
-    <circle cx="650" cy="256" r="12"/><circle cx="666" cy="270" r="10"/><circle cx="638" cy="274" r="9"/>
-  </g>
-  <text x="650" y="400" font-size="15" fill="#6b6864" text-anchor="middle">自体脂肪 · 更自然</text>
-  <text x="450" y="428" font-size="14" fill="#97918a" text-anchor="middle">恢复期、手感、风险各不相同，需面诊评估</text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="-apple-system,'PingFang SC','Microsoft YaHei',sans-serif" viewBox="0 0 900 440"><rect width="900" height="440" fill="#faf8f4"/><text x="450" y="50" fill="#7a8b6f" font-size="18" font-weight="600" text-anchor="middle">假体 &amp; 自体脂肪，两种思路</text><ellipse cx="250" cy="260" fill="#fff" stroke="#2b2a28" stroke-width="2" rx="120" ry="90"/><path fill="#f3efe8" stroke="#2b2a28" stroke-width="1.5" d="M160 260 C 190 210, 310 210, 340 260 C 310 310, 190 310, 160 260 Z"/><ellipse cx="250" cy="262" fill="#eef0ea" stroke="#7a8b6f" stroke-width="2" rx="46" ry="38"/><text x="250" y="267" fill="#5f6e54" font-size="14" text-anchor="middle">假体</text><text x="250" y="400" fill="#6b6864" font-size="15" text-anchor="middle">硅胶假体 · 塑形好</text><ellipse cx="650" cy="260" fill="#fff" stroke="#2b2a28" stroke-width="2" rx="120" ry="90"/><path fill="#f3efe8" stroke="#2b2a28" stroke-width="1.5" d="M560 260 C 590 210, 710 210, 740 260 C 710 310, 590 310, 560 260 Z"/><g fill="#c9a876" opacity=".8"><circle cx="650" cy="256" r="12"/><circle cx="666" cy="270" r="10"/><circle cx="638" cy="274" r="9"/></g><text x="650" y="400" fill="#6b6864" font-size="15" text-anchor="middle">自体脂肪 · 更自然</text><text x="450" y="428" fill="#97918a" font-size="14" text-anchor="middle">恢复期、手感、风险各不相同，需面诊评估</text></svg>

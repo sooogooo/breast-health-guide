@@ -1,18 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 420" font-family="-apple-system,'PingFang SC','Microsoft YaHei',sans-serif">
-  <rect width="900" height="420" fill="#faf8f4"/>
-  <g fill="none" stroke="#2b2a28" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M120 100 C 90 120, 90 200, 120 240 C 150 280, 150 360, 120 380 M120 100 C 160 120, 160 200, 130 240 C 140 270, 140 340, 120 380"/>
-    <path d="M118 160 C 140 165, 150 190, 132 205 M122 230 C 145 235, 155 260, 135 278"/>
-    <path d="M340 100 C 310 120, 310 200, 340 240 C 370 280, 370 360, 340 380 M340 100 C 380 120, 380 200, 350 240 C 360 270, 360 340, 340 380"/>
-    <path d="M338 165 C 362 168, 375 190, 356 205 M342 235 C 366 238, 378 262, 356 278"/>
-    <path d="M560 100 C 530 120, 530 200, 560 240 C 590 280, 590 360, 560 380 M560 100 C 600 120, 600 200, 570 240 C 580 270, 580 340, 560 380"/>
-    <path d="M558 168 C 584 170, 598 192, 578 206 M562 238 C 588 240, 600 264, 578 278"/>
-    <path d="M780 100 C 750 120, 750 200, 780 240 C 810 280, 810 360, 780 380 M780 100 C 820 120, 820 200, 790 240 C 800 270, 800 340, 780 380"/>
-    <path d="M778 165 C 804 168, 818 190, 798 205 M782 235 C 808 238, 820 262, 798 278"/>
-  </g>
-  <text x="120" y="405" font-size="16" fill="#6b6864" text-anchor="middle">胸型一</text>
-  <text x="340" y="405" font-size="16" fill="#6b6864" text-anchor="middle">胸型二</text>
-  <text x="560" y="405" font-size="16" fill="#6b6864" text-anchor="middle">胸型三</text>
-  <text x="780" y="405" font-size="16" fill="#6b6864" text-anchor="middle">胸型四</text>
-  <text x="450" y="60" font-size="18" fill="#7a8b6f" text-anchor="middle" font-weight="600">不一样，才说明是自然的</text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="-apple-system,'PingFang SC','Microsoft YaHei',sans-serif" viewBox="0 0 900 420"><rect width="900" height="420" fill="#faf8f4"/><g fill="none" stroke="#2b2a28" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="M120 100 C 90 120, 90 200, 120 240 C 150 280, 150 360, 120 380 M120 100 C 160 120, 160 200, 130 240 C 140 270, 140 340, 120 380"/><path d="M118 160 C 140 165, 150 190, 132 205 M122 230 C 145 235, 155 260, 135 278"/><path d="M340 100 C 310 120, 310 200, 340 240 C 370 280, 370 360, 340 380 M340 100 C 380 120, 380 200, 350 240 C 360 270, 360 340, 340 380"/><path d="M338 165 C 362 168, 375 190, 356 205 M342 235 C 366 238, 378 262, 356 278"/><path d="M560 100 C 530 120, 530 200, 560 240 C 590 280, 590 360, 560 380 M560 100 C 600 120, 600 200, 570 240 C 580 270, 580 340, 560 380"/><path d="M558 168 C 584 170, 598 192, 578 206 M562 238 C 588 240, 600 264, 578 278"/><path d="M780 100 C 750 120, 750 200, 780 240 C 810 280, 810 360, 780 380 M780 100 C 820 120, 820 200, 790 240 C 800 270, 800 340, 780 380"/><path d="M778 165 C 804 168, 818 190, 798 205 M782 235 C 808 238, 820 262, 798 278"/></g><text x="120" y="405" fill="#6b6864" font-size="16" text-anchor="middle">胸型一</text><text x="340" y="405" fill="#6b6864" font-size="16" text-anchor="middle">胸型二</text><text x="560" y="405" fill="#6b6864" font-size="16" text-anchor="middle">胸型三</text><text x="780" y="405" fill="#6b6864" font-size="16" text-anchor="middle">胸型四</text><text x="450" y="60" fill="#7a8b6f" font-size="18" font-weight="600" text-anchor="middle">不一样，才说明是自然的</text></svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" font-family="-apple-system,'PingFang SC','Microsoft YaHei',sans-serif">
+  <rect width="1200" height="630" fill="#faf8f4"/>
+  <rect x="1" y="1" width="1198" height="628" fill="none" stroke="#ece7df" stroke-width="2"/>
+  <path d="M600 250 C 600 250, 500 190, 500 150 C 500 118, 522 96, 552 96 C 568 96, 586 108, 600 120 C 614 108, 632 96, 648 96 C 678 96, 700 118, 700 150 C 700 190, 600 250, 600 250 Z" fill="none" stroke="#b9776e" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="600" cy="162" r="10" fill="#7a8b6f"/>
+  <text x="600" y="360" font-size="46" font-weight="700" fill="#2b2a28" text-anchor="middle">认识胸部：美学、健康与选择</text>
+  <text x="600" y="412" font-size="24" fill="#6b6864" text-anchor="middle">给完全不懂的你 · 从美学到健康，再到穿搭</text>
+  <text x="600" y="560" font-size="20" fill="#97918a" text-anchor="middle">重庆西区医院医学美容中心</text>
+</svg>

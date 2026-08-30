@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 480" font-family="-apple-system,'PingFang SC','Microsoft YaHei',sans-serif">
+  <rect width="900" height="480" fill="#faf8f4"/>
+  <g fill="none" stroke="#2b2a28" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M180 120 C 165 130, 165 170, 180 190 C 196 210, 196 260, 180 280 M180 120 C 200 130, 200 170, 188 190"/>
+    <path d="M180 175 C 194 178, 202 196, 190 206"/>
+  </g>
+  <text x="180" y="330" font-size="16" fill="#6b6864" text-anchor="middle">① 观察</text>
+  <g fill="none" stroke="#2b2a28" stroke-width="2" stroke-linecap="round">
+    <path d="M520 150 C 505 160, 505 200, 520 220 C 536 240, 536 290, 520 310 M520 150 C 540 160, 540 200, 528 220"/>
+  </g>
+  <path d="M500 230 C 512 236, 522 250, 516 260" fill="none" stroke="#7a8b6f" stroke-width="2.5" stroke-linecap="round"/>
+  <text x="520" y="330" font-size="16" fill="#6b6864" text-anchor="middle">② 触摸</text>
+  <g fill="none" stroke="#2b2a28" stroke-width="2">
+    <path d="M850 180 a 55 55 0 0 0 -110 0 a 55 55 0 0 0 110 0 Z" fill="none"/>
+    <path d="M795 180 v 40" stroke="#b5654a" stroke-width="2.5"/>
+  </g>
+  <text x="795" y="260" font-size="16" fill="#6b6864" text-anchor="middle">③ 异常及时就医</text>
+  <text x="450" y="60" font-size="18" fill="#7a8b6f" text-anchor="middle" font-weight="600">每月花 2 分钟，做一次自检</text>
+  <text x="450" y="440" font-size="15" fill="#97918a" text-anchor="middle">经期后 7~10 天 · 乳房已消肿最合适</text>
+  <line x1="150" y1="400" x2="750" y2="400" stroke="#ece7df" stroke-width="1"/>
+  <text x="450" y="420" font-size="14" fill="#97918a" text-anchor="middle">发现肿块、溢液、皮肤凹陷等变化 → 看乳腺科</text>
+</svg>

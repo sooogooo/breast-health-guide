@@ -1,16 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 460" font-family="-apple-system,'PingFang SC','Microsoft YaHei',sans-serif">
-  <rect width="900" height="460" fill="#faf8f4"/>
-  <rect x="40" y="70" width="380" height="320" rx="12" fill="#ffffff" stroke="#7a8b6f" stroke-width="1.5"/>
-  <rect x="480" y="70" width="380" height="320" rx="12" fill="#ffffff" stroke="#eec7bd" stroke-width="1.5"/>
-  <text x="230" y="112" font-size="20" fill="#7a8b6f" text-anchor="middle" font-weight="700">隆胸 · 增大塑形</text>
-  <text x="670" y="112" font-size="20" fill="#b5654a" text-anchor="middle" font-weight="700">缩小 · 减轻负担</text>
-  <g fill="none" stroke="#2b2a28" stroke-width="2" stroke-linecap="round">
-    <path d="M230 160 C 210 175, 210 220, 230 245 C 250 270, 250 320, 230 340 M230 160 C 255 175, 255 220, 238 245"/>
-    <path d="M670 160 C 650 175, 650 220, 670 245 C 690 270, 690 320, 670 340 M670 160 C 695 175, 695 220, 678 245"/>
-  </g>
-  <text x="230" y="200" font-size="44" fill="#7a8b6f" text-anchor="middle">+</text>
-  <text x="670" y="200" font-size="44" fill="#b5654a" text-anchor="middle">−</text>
-  <text x="230" y="360" font-size="14" fill="#6b6864" text-anchor="middle">想要更饱满或更挺</text>
-  <text x="670" y="360" font-size="14" fill="#6b6864" text-anchor="middle">胸太大带来不适</text>
-  <text x="450" y="50" font-size="18" fill="#7a8b6f" text-anchor="middle" font-weight="600">两个方向，都是正规医疗手术</text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="-apple-system,'PingFang SC','Microsoft YaHei',sans-serif" viewBox="0 0 900 460"><rect width="900" height="460" fill="#faf8f4"/><rect width="380" height="320" x="40" y="70" fill="#fff" stroke="#7a8b6f" stroke-width="1.5" rx="12"/><rect width="380" height="320" x="480" y="70" fill="#fff" stroke="#eec7bd" stroke-width="1.5" rx="12"/><text x="230" y="112" fill="#7a8b6f" font-size="20" font-weight="700" text-anchor="middle">隆胸 · 增大塑形</text><text x="670" y="112" fill="#b5654a" font-size="20" font-weight="700" text-anchor="middle">缩小 · 减轻负担</text><g fill="none" stroke="#2b2a28" stroke-linecap="round" stroke-width="2"><path d="M230 160 C 210 175, 210 220, 230 245 C 250 270, 250 320, 230 340 M230 160 C 255 175, 255 220, 238 245"/><path d="M670 160 C 650 175, 650 220, 670 245 C 690 270, 690 320, 670 340 M670 160 C 695 175, 695 220, 678 245"/></g><text x="230" y="200" fill="#7a8b6f" font-size="44" text-anchor="middle">+</text><text x="670" y="200" fill="#b5654a" font-size="44" text-anchor="middle">−</text><text x="230" y="360" fill="#6b6864" font-size="14" text-anchor="middle">想要更饱满或更挺</text><text x="670" y="360" fill="#6b6864" font-size="14" text-anchor="middle">胸太大带来不适</text><text x="450" y="50" fill="#7a8b6f" font-size="18" font-weight="600" text-anchor="middle">两个方向，都是正规医疗手术</text></svg>

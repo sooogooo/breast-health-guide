@@ -1,13 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 700" font-family="-apple-system,'PingFang SC','Microsoft YaHei',sans-serif">
-  <rect width="900" height="700" fill="#faf8f4"/>
-  <circle cx="450" cy="350" r="230" fill="none" stroke="#ece7df" stroke-width="1.5"/>
-  <!-- 高雅的女性侧姿线条（医学教育风格，克制） -->
-  <g fill="none" stroke="#2b2a28" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M395 175 C 330 190, 300 250, 315 305 C 330 360, 300 430, 340 505 C 370 560, 430 575, 490 560 C 560 540, 610 470, 605 400 C 600 340, 560 300, 555 255 C 550 205, 500 170, 450 165 Z"/>
-    <path d="M450 165 C 445 205, 445 245, 450 285"/>
-    <path d="M315 305 C 360 315, 405 312, 450 300"/>
-    <path d="M450 300 C 495 312, 540 315, 590 305"/>
-  </g>
-  <circle cx="450" cy="180" r="34" fill="none" stroke="#7a8b6f" stroke-width="2"/>
-  <text x="450" y="185" font-size="20" fill="#7a8b6f" text-anchor="middle" font-weight="600">自然</text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="-apple-system,'PingFang SC','Microsoft YaHei',sans-serif" viewBox="0 0 900 700"><rect width="900" height="700" fill="#faf8f4"/><circle cx="450" cy="350" r="230" fill="none" stroke="#ece7df" stroke-width="1.5"/><g fill="none" stroke="#2b2a28" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5"><path d="M395 175 C 330 190, 300 250, 315 305 C 330 360, 300 430, 340 505 C 370 560, 430 575, 490 560 C 560 540, 610 470, 605 400 C 600 340, 560 300, 555 255 C 550 205, 500 170, 450 165 Z"/><path d="M450 165 C 445 205, 445 245, 450 285"/><path d="M315 305 C 360 315, 405 312, 450 300"/><path d="M450 300 C 495 312, 540 315, 590 305"/></g><circle cx="450" cy="180" r="34" fill="none" stroke="#7a8b6f" stroke-width="2"/><text x="450" y="185" fill="#7a8b6f" font-size="20" font-weight="600" text-anchor="middle">自然</text></svg>

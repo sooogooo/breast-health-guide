@@ -3,6 +3,7 @@ from pathlib import Path
 from html import escape
 import re, json, hashlib
 from bs4 import BeautifulSoup
+from share_metadata import sync_share_metadata
 
 ROOT=Path(__file__).resolve().parents[1]
 VERSION='20260831-mobile1'
@@ -23,7 +24,7 @@ def shared_head():
 
 icons=''.join(str(x) for x in BeautifulSoup(home,'html.parser').select('link[rel~=icon],link[rel="apple-touch-icon"]'))
 def info_page(name,title,description,content):
-    og=f'<meta property="og:title" content="{escape(title)}"><meta property="og:description" content="{escape(description)}"><meta property="og:image" content="https://breast.meilipai.vip/assets/share-card.png"><meta property="og:url" content="https://breast.meilipai.vip/{name}">'
+    og=''
     return '<!DOCTYPE html><html lang="zh-CN"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"><meta name="theme-color" content="#faf8f4"><meta name="referrer" content="strict-origin-when-cross-origin"><title>'+escape(title)+' · 认识胸部</title><meta name="description" content="'+escape(description)+'">'+icons+og+shared_head()+'</head><body id="top"><a class="skip-link" href="#main-content">跳到主要内容</a>'+header(None)+content+footer+'<div class="share-status" role="status" aria-live="polite"></div></body></html>\n'
 
 for name,title,description in [('privacy','隐私声明','本站的个人资料、页面功能、访问日志、外部链接与隐私联系说明。'),('open-source','开源说明','网站源码、MIT 代码许可、文章与素材边界，以及复用网站时需要注意的事项。')]:
@@ -56,6 +57,10 @@ for path in paths:
     for selector in ('.art-card','.cat-card','.pn'):
         assert [str(x) for x in updated.select(selector)]==[str(x) for x in original.select(selector)],(path,selector)
     path.write_text(text,'utf-8',newline='\n')
+
+for path in paths:
+    text=path.read_text('utf-8')
+    path.write_text(sync_share_metadata(text,path,ROOT),'utf-8',newline='\n')
 
 sitemap=ROOT/'sitemap.xml'
 xml=sitemap.read_text('utf-8')
